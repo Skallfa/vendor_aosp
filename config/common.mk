@@ -187,7 +187,8 @@ PRODUCT_PACKAGES += \
 
 # Apps
 PRODUCT_PACKAGES += \
-    Aperture
+    Aperture \
+    NoCombinedIconsOverlay 
 
 # Use gestures by default
 PRODUCT_PRODUCT_PROPERTIES += \
