@@ -33,6 +33,9 @@
         <!-- Enable permission hub v2 -->
         <item>privacy/permissions_hub_enabled=true</item>
         <item>privacy/permissions_hub_2_enabled=true</item>
+        
+        <!-- Disable always screen on -->
+        <item>attention_manager_service/keep_screen_on_enabled=false</item>
 
         <!--
             Device Personalization Services (AiAi)
@@ -231,6 +234,8 @@
 
         <!-- Globally enable the new photo picker -->
         <item>storage_native_boot/take_over_get_content=true</item>
+        
+        <item>device_personalization_services/Attention__enabled=false</item>
 
     </string-array>
 </resources>
