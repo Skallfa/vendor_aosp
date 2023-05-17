@@ -188,7 +188,8 @@ PRODUCT_PACKAGES += \
 # Apps
 PRODUCT_PACKAGES += \
     Aperture \
-    NoCombinedIconsOverlay 
+    NoCombinedIconsOverlay \
+    GameSpace
 
 # Use gestures by default
 PRODUCT_PRODUCT_PROPERTIES += \
